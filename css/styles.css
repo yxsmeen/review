@@ -1,0 +1,146 @@
+body{
+    background-color: #FFEBC1;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    margin: 50px 0px 0px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 5.25rem;
+    color: #8E3200;
+}
+
+h2{
+    font-size: 2rem;
+    margin: 0px;
+    color: #8E3200;
+    font-weight: normal;
+}
+
+h3{
+    color: #A64B2A;
+}
+
+a{
+    color: #ce5a2f;
+    text-decoration: none;
+    margin: auto 15px;
+}
+
+a:hover{
+    color: #a93f18;
+}
+
+span{
+    text-decoration: underline 2px;
+}
+
+hr{
+    border-top: dotted 8px;
+    width: 10%;
+    border-bottom: none;
+    color: #c9b997;
+    margin: 50px auto;
+}
+
+.top-container{
+    background-color: #D7A86E;
+    position: relative;
+    padding-top: 100px;
+    height: 550px;
+}
+
+.bottom-container{
+    height: 150px;
+    background-color:#662400;
+    margin: 50px auto auto;
+}
+
+.footer-link{
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.footer-credits{
+    color: #FFEBC1;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.in-touch{
+    margin: 40px auto 10px;
+}
+
+.in-touch-tag{
+    margin: 0px auto 40px;
+}
+
+.theatrepic{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.crochetpic{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 450px;
+    top: 50px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+
+.skill-row{
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    margin: 100px auto;
+    
+}
+
+.btn {
+    background: #A64B2A;
+    background-image: -webkit-linear-gradient(top, #A64B2A, #8E3200);
+    background-image: -moz-linear-gradient(top, #A64B2A, #8E3200);
+    background-image: -ms-linear-gradient(top, #A64B2A, #8E3200);
+    background-image: -o-linear-gradient(top, #A64B2A, #8E3200);
+    background-image: linear-gradient(to bottom, #A64B2A, #8E3200);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Raleway", sans-serif;
+    color: #FFEBC1;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #7d371f;
+    color: #FFEBC1;
+    background-image: -webkit-linear-gradient(top, #7d371f, #662400);
+    background-image: -moz-linear-gradient(top, #7d371f, #662400);
+    background-image: -ms-linear-gradient(top, #7d371f, #662400);
+    background-image: -o-linear-gradient(top, #7d371f, #662400);
+    background-image: linear-gradient(to bottom, #7d371f, #662400);
+    text-decoration: none;
+  }
+
+#profpic{
+    height:250px;
+    padding: 20px;
+}
